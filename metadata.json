@@ -1,0 +1,10 @@
+{
+  "name": "Obeecreatives Workspace OS",
+  "description": "Unified Workspace OS & Agency Operations Portal for Obeecreatives: Project Control, CRM Clients Hub, HR & Presensi GPS, Finance, Assets, and Talent Recruitment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
